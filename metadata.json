@@ -1,0 +1,8 @@
+{
+  "name": "Remix Supertienda Los Paisa - Inventario \u0026 Balance Contable",
+  "description": "Sistema de control de inventario, consulta de existencias, cálculo de valor y balance contable basado en INVENTARIO LUCHO2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
